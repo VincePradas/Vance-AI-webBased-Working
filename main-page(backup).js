@@ -115,7 +115,7 @@ function toggleSidebar() {
             image.style.display = 'none';
             image.style.transition = 'display ease 5s';
 
-            const removed = '';// API
+            const removed = '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';// API
 
             async function sendMessage() {
                 console.log('Generating Response.')
@@ -129,7 +129,7 @@ function toggleSidebar() {
                             'Authorization': `Bearer ${removed}`
                         },
                         body: JSON.stringify({
-                            model: 'davinci-002',
+                            model: 'gpt-3.5-turbo-instruct',
                             prompt: query,
                             temperature: 0.5,
                             max_tokens: 500,
