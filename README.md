@@ -1,3 +1,4 @@
 ﻿# Vance-AI-WebBased
 
- CURRENTLY NOT WORKING AM
+ # WORKING ONE
+ # PREVIEW: https://ai-vance.vercel.app
