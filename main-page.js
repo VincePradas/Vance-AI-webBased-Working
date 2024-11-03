@@ -9,7 +9,7 @@ const data = {
 const dataName = data['name'];
 
 async function interactWithChatGPT(prompt) {
-    const removed = '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'; // Replace 'YOUR_API_KEY' with your actual API key
+    const removed = 'YOUR_KEY_HERE'; // Replace 'YOUR_API_KEY' with your actual API key
 
     try {
         
