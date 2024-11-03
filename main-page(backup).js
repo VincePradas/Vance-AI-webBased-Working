@@ -115,7 +115,7 @@ function toggleSidebar() {
             image.style.display = 'none';
             image.style.transition = 'display ease 5s';
 
-            const removed = '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';// API
+            const removed = 'YOUR_KEY_HERE';// API
 
             async function sendMessage() {
                 console.log('Generating Response.')
